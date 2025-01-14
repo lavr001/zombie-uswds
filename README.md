@@ -34,12 +34,37 @@ This site includes a **Home** page with alerts, an **official Gov Banner**, and 
 
 ---
 
+## 3. Future Improvements
+
+1. **Responsive Design Enhancements**
+
+   - Fine-tune layouts for mobile devices; leverage additional USWDS layout utilities to ensure an optimal experience at every screen size.
+
+2. **Additional Interactive Components**
+
+   - Incorporate USWDS form controls for sign-up processes, radio/checkbox tiles, or a mini quiz to boost engagement.
+
+3. **Refactor & Modularize State Management**
+
+   - Introduce a more organized global state (e.g., Context API or Redux) for cleaner data handling if the app grows in complexity.
+
+4. **Automated Testing & CI/CD**
+
+   - Add Jest or React Testing Library for component/unit tests.
+
+5. **Custom Theming / Branding**
+   - If needed, override USWDS tokens (colors, typography) to align with specific agency branding or visual guidelines.
+
+---
+
 ## 4. Setup & Installation
 
 1. **Install Dependencies**
-   ```
-   npm install
-   ```
+
+```
+npm install
+```
+
 2. **Start Local Dev Server**
 
 ```
