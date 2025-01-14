@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zombie-uswds/static/css/main.43bbf614.css",
+    "main.js": "/zombie-uswds/static/js/main.47005c1f.js",
+    "static/media/jpg": "/zombie-uswds/static/media/fdfa1c365bb151847b2c.fdfa1c365bb151847b2c.jpg",
+    "static/media/woff2": "/zombie-uswds/static/media/936869ba46988c238748.936869ba46988c238748.woff2",
+    "index.html": "/zombie-uswds/index.html",
+    "main.43bbf614.css.map": "/zombie-uswds/static/css/main.43bbf614.css.map",
+    "main.47005c1f.js.map": "/zombie-uswds/static/js/main.47005c1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43bbf614.css",
+    "static/js/main.47005c1f.js"
+  ]
+}
